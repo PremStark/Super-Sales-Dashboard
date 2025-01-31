@@ -34,7 +34,7 @@ The main objective of this dashboard is to provide insights into the sales strat
 - Incorporated data analysis techniques specializing in **time series analysis**.  
 - Created **interactive dashboards** for better decision-making.  
 - Delivered **sales forecasts** and actionable insights to support business success.
-- 
+  
 ## Outcome  
 
 - Enhanced the ability to analyze sales data.  
